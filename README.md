@@ -1,9 +1,8 @@
 # SDL Rotating Cube Visualization
-## Preview
 ![image](https://github.com/user-attachments/assets/a9c809fb-c00c-4127-b27e-86e9da313660)
 
 ## Overview
-This is a simple C++ application that renders and animates a 3D cube using SDL2 (Simple DirectMedia Layer). The cube rotates continuously around its centroid, demonstrating basic 3D transformation and rendering techniques.
+This is a simple C++ application that renders and animates a 3D cube using SDL2 (Simple DirectMedia Layer). The cube rotates continuously around its centroid, demonstrating basic 3D transformation and rendering techniques.This project was done following [this](https://www.youtube.com/watch?v=kdRJgYO1BJM&ab_channel=TheBuilder) tutorial by The Builder.
 
 ## Features
 - Renders a wireframe cube
